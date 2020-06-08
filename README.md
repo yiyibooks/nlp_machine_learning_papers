@@ -1,5 +1,5 @@
 # nlp_machine_learning_papers
-NLP 和机器学习论文翻译
+NLP 和机器学习论文中文翻译
 
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html)
 
