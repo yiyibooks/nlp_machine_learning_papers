@@ -1,7 +1,7 @@
 # nlp_machine_learning_papers
 NLP 和机器学习论文翻译
 
-[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, Sentence-BERT：使用 Siamese BERT 网络的句子嵌入] (https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html)
+[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html)
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, BERT：用于语言理解的深度双向 Transformer 预训练](https://www.yiyibooks.cn/nlp/bert/main.html)
 
