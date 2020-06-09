@@ -1,5 +1,4 @@
-# nlp_machine_learning_papers
-NLP 和机器学习论文中文翻译
+# NLP 和机器学习论文中文翻译
 
 点击链接查看相应论文的中英文对照翻译
 
