@@ -4,6 +4,8 @@
 
 [Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html)
 
+[Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html)
+
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html)
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018](https://www.yiyibooks.cn/nlp/bert/main.html)
