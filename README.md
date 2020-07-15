@@ -6,7 +6,7 @@
 
 [XLNet: Generalized Autoregressive Pretraining for Language Understanding, 2019](https://www.yiyibooks.cn/nlp/XLNet/index.html)
 
-[Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html)
+[Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html), UDA
 
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html)
 
