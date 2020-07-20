@@ -14,6 +14,8 @@
 
 [Attention Is All You Need, 2017](https://yiyibooks.cn/yiyibooks/Attention_Is_All_You_Need/index.html), Transformer
 
+[Layer Normalization, 2016](https://www.yiyibooks.cn/nlp/layer_norm/index.html), Layer Normalization
+
 [Gaussian Error Linear Units (GELUs), 2016](https://www.yiyibooks.cn/nlp/gelu/main.html)
 
 [Neural Machine Translation of Rare Words with Subword Units, 2016](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units/index.html)
