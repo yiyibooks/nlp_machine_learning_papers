@@ -22,6 +22,8 @@
 
 [Effective Approaches to Attention-based Neural Machine Translation, 2015](https://yiyibooks.cn/yiyibooks/Effective_Approaches_to_Attention_Based_Neural_Machine_Translation/index.html)
 
+[Distilling the Knowledge in a Neural Network, 2015](https://www.yiyibooks.cn/nlp/Knowledge_Distilling/index.html), Knowledge distilling
+
 [Neural Machine Translation by Jointly Learning to Align and Translate, 2014](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate/index.html), Seq2seq with attention
 
 [Convolutional Neural Networks for Sentence Classification, 2014](https://www.yiyibooks.cn/nlp/textcnn/index.html), textcnn
