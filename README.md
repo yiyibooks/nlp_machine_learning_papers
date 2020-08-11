@@ -10,7 +10,7 @@
 
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html), sentence-bert
 
-[Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), ALBert
+[Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), albert
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018](https://www.yiyibooks.cn/nlp/bert/main.html), bert
 
@@ -22,7 +22,7 @@
 
 [Neural Machine Translation of Rare Words with Subword Units, 2016](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units/index.html), subword
 
-[https://www.yiyibooks.cn/nlp/pointer_network/index.html, 2015](https://www.yiyibooks.cn/nlp/pointer_network/index.html), pointer network
+[Pointer Networks, 2015](https://www.yiyibooks.cn/nlp/pointer_network/index.html), pointer networks
 
 [Effective Approaches to Attention-based Neural Machine Translation, 2015](https://yiyibooks.cn/yiyibooks/Effective_Approaches_to_Attention_Based_Neural_Machine_Translation/index.html)
 
