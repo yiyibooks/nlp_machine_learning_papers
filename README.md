@@ -8,6 +8,8 @@
 
 [Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html), UDA
 
+[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, 2019](https://yiyibooks.cn/nlp/EDA/index.html), EDA
+
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html), sentence-bert
 
 [Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), albert
