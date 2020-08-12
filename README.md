@@ -12,7 +12,7 @@
 
 [Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), albert
 
-[An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction, 2019](An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction), Intent Classification dataset
+[An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction, 2019](https://yiyibooks.cn/yiyibooks/An_Evaluation_Dataset_for_Intent_Classification/index.html), Intent Classification dataset
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018](https://www.yiyibooks.cn/nlp/bert/main.html), bert
 
