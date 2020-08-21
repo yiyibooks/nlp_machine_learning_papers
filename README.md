@@ -4,11 +4,13 @@
 
 [Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html), poly-encoder
 
+[FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, 2020](https://www.yiyibooks.cn/nlp/FixMatch/index.html), 半监督学习 FixMatch
+
 [XLNet: Generalized Autoregressive Pretraining for Language Understanding, 2019](https://www.yiyibooks.cn/nlp/XLNet/index.html), xlnet
 
-[Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html), UDA
+[Unsupervised Data Augmentation for Consistency Training, 2019](https://www.yiyibooks.cn/nlp/uda/index.html), 无监督数据的增强 UDA
 
-[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, 2019](https://yiyibooks.cn/nlp/EDA/index.html), EDA
+[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, 2019](https://yiyibooks.cn/nlp/EDA/index.html), 有监督数据的增强 EDA
 
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html), sentence-bert
 
@@ -20,20 +22,20 @@
 
 [Attention Is All You Need, 2017](https://yiyibooks.cn/yiyibooks/Attention_Is_All_You_Need/index.html), Transformer
 
-[Layer Normalization, 2016](https://www.yiyibooks.cn/nlp/layer_norm/index.html), Layer Normalization
+[Layer Normalization, 2016](https://www.yiyibooks.cn/nlp/layer_norm/index.html), 层归一化 Layer Normalization
 
-[Gaussian Error Linear Units (GELUs), 2016](https://www.yiyibooks.cn/nlp/gelu/main.html), gelu
+[Gaussian Error Linear Units (GELUs), 2016](https://www.yiyibooks.cn/nlp/gelu/main.html), 非线性 gelu
 
 [Neural Machine Translation of Rare Words with Subword Units, 2016](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units/index.html), subword
 
-[Pointer Networks, 2015](https://www.yiyibooks.cn/nlp/pointer_network/index.html), pointer networks
+[Pointer Networks, 2015](https://www.yiyibooks.cn/nlp/pointer_network/index.html), 指针网络 pointer networks
 
 [Effective Approaches to Attention-based Neural Machine Translation, 2015](https://yiyibooks.cn/yiyibooks/Effective_Approaches_to_Attention_Based_Neural_Machine_Translation/index.html)
 
-[Distilling the Knowledge in a Neural Network, 2015](https://www.yiyibooks.cn/nlp/Knowledge_Distilling/index.html), Knowledge distilling
+[Distilling the Knowledge in a Neural Network, 2015](https://www.yiyibooks.cn/nlp/Knowledge_Distilling/index.html), 知识蒸馏 Knowledge distilling
 
 [Neural Machine Translation by Jointly Learning to Align and Translate, 2014](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate/index.html), Seq2seq with attention
 
 [Convolutional Neural Networks for Sentence Classification, 2014](https://www.yiyibooks.cn/nlp/textcnn/index.html), textcnn
 
-[BLEU: a Method for Automatic Evaluation of Machine Translation, 2002](https://yiyibooks.cn/yiyibooks/BLEU_a_Method_for_Automatic_Evaluation_of_Machine_Translation/index.html), bleu
+[BLEU: a Method for Automatic Evaluation of Machine Translation, 2002](https://yiyibooks.cn/yiyibooks/BLEU_a_Method_for_Automatic_Evaluation_of_Machine_Translation/index.html), 机器翻译评价指标 bleu
