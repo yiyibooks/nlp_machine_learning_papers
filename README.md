@@ -2,7 +2,7 @@
 
 点击链接查看相应论文的中英文对照翻译
 
-[Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html), poly-encoder
+[Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html), 多语句评分 poly-encoder
 
 [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, 2020](https://www.yiyibooks.cn/nlp/FixMatch/index.html), 半监督学习 FixMatch
 
@@ -14,7 +14,9 @@
 
 [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, 2019](https://www.yiyibooks.cn/nlp/SentenceBERT_Sentence_Embeddings_using_Siamese_BERTNetworks/index.html), sentence-bert
 
-[Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), albert
+[RoBERTa: A Robustly Optimized BERT Pretraining Approach, 2019](https://www.yiyibooks.cn/nlp/roberta/index.html), 预训练方法优化的 BERT, Roberta
+
+[Albert: A Lite Bert For Self-Supervised Learning Of Language Representations, 2019](https://yiyibooks.cn/yiyibooks/A_LITE_BERT_FOR_SELFSUPERVISED_LEARNING_OF_LANGUAGE_REPRESENTATIONS/index.html), 内存优化的 BERT，Albert
 
 [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction, 2019](https://yiyibooks.cn/yiyibooks/An_Evaluation_Dataset_for_Intent_Classification/index.html), Intent Classification dataset
 
@@ -26,7 +28,7 @@
 
 [Gaussian Error Linear Units (GELUs), 2016](https://www.yiyibooks.cn/nlp/gelu/main.html), 非线性 gelu
 
-[Neural Machine Translation of Rare Words with Subword Units, 2016](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units/index.html), subword
+[Neural Machine Translation of Rare Words with Subword Units, 2016](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units/index.html), 子词 subword, BPE
 
 [Pointer Networks, 2015](https://www.yiyibooks.cn/nlp/pointer_network/index.html), 指针网络 pointer networks
 
@@ -36,6 +38,6 @@
 
 [Neural Machine Translation by Jointly Learning to Align and Translate, 2014](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate/index.html), Seq2seq with attention
 
-[Convolutional Neural Networks for Sentence Classification, 2014](https://www.yiyibooks.cn/nlp/textcnn/index.html), textcnn
+[Convolutional Neural Networks for Sentence Classification, 2014](https://www.yiyibooks.cn/nlp/textcnn/index.html), 文本分类 textcnn
 
 [BLEU: a Method for Automatic Evaluation of Machine Translation, 2002](https://yiyibooks.cn/yiyibooks/BLEU_a_Method_for_Automatic_Evaluation_of_Machine_Translation/index.html), 机器翻译评价指标 bleu
