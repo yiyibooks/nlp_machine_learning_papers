@@ -1,10 +1,14 @@
 # NLP 和机器学习论文中文翻译
 
-点击链接查看相应论文的中英文对照翻译
+在阅读过程中发现有翻译不好的地方，可以直接修改
 
-在阅读过程中发现有翻译不好的地方，请直接修改
+有其它想要阅读和翻译的论文，将论文转换成 HTML 后直接上传，有问题请在 Issues 中留言
 
-有其它想要阅读的论文并翻译，可以将论文转换成 HTML 后直接上传，有问题请在 Issues 中留言
+LaTex 转 HTML 的方法参见 Wiki
+
+[https://www.yiyibooks.cn/nlp/SimCLRv2/index.html, 2020](https://www.yiyibooks.cn/nlp/SimCLRv2/index.html), 图像领域无监督预训练 + 有监督微调 SimCLR v2
+
+[ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems, 2020](https://www.yiyibooks.cn/nlp/ConvLab2/index.html), 对话系统工具包 ConLab-2
 
 [Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html), 多语句评分 poly-encoder
 
