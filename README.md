@@ -2,11 +2,11 @@
 
 在阅读过程中发现有翻译不好的地方，可以直接修改
 
-有其它想要阅读和翻译的论文，将论文转换成 HTML 后直接上传，有问题请在 Issues 中留言
+有其它想要阅读和翻译的论文，将论文转换成 HTML 后上传，有问题请在 Issues 中留言
 
-LaTex 转 HTML 的方法参见 Wiki
+LaTex 转 HTML 的方法参见 [Wiki](https://github.com/yiyibooks/nlp_machine_learning_papers/wiki/%E5%A6%82%E4%BD%95%E5%B0%86-LaTex-%E8%BD%AC%E6%8D%A2%E6%88%90-HTML) 
 
-[https://www.yiyibooks.cn/nlp/SimCLRv2/index.html, 2020](https://www.yiyibooks.cn/nlp/SimCLRv2/index.html), 图像领域无监督预训练 + 有监督微调 SimCLR v2
+[Big Self-Supervised Models are Strong Semi-Supervised Learners, 2020](https://www.yiyibooks.cn/nlp/SimCLRv2/index.html), 图像领域无监督预训练 + 有监督微调 SimCLR v2
 
 [ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems, 2020](https://www.yiyibooks.cn/nlp/ConvLab2/index.html), 对话系统工具包 ConLab-2
 
