@@ -8,6 +8,10 @@ LaTex 转 HTML 的方法参见 [Wiki](https://github.com/yiyibooks/nlp_machine_l
 
 [Big Self-Supervised Models are Strong Semi-Supervised Learners, 2020](https://www.yiyibooks.cn/nlp/SimCLRv2/index.html), 图像领域无监督预训练 + 有监督微调 SimCLR v2
 
+[ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS, 2020](https://yiyibooks.cn/nlp/ELECTRA/index.html), ELECTRA 生成器+判别器预训练语言模型
+
+[ConveRT: Efficient and Accurate Conversational Representations from Transformers, 2020](https://www.yiyibooks.cn/nlp/ConvRT/index.html), ConveRT：基于 Transformer 的高效、准确的会话表示
+
 [ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems, 2020](https://www.yiyibooks.cn/nlp/ConvLab2/index.html), 对话系统工具包 ConLab-2
 
 [Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring, 2020](https://www.yiyibooks.cn/nlp/poly-encoder/index.html), 多语句评分 poly-encoder
