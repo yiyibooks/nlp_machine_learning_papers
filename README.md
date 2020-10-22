@@ -10,6 +10,8 @@ LaTex 转 HTML 的方法参见 [Wiki](https://github.com/yiyibooks/nlp_machine_l
 
 [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS, 2020](https://yiyibooks.cn/nlp/ELECTRA/index.html), ELECTRA 生成器+判别器预训练语言模型
 
+[DIET: Lightweight Language Understanding for Dialogue Systems, 2020](https://www.yiyibooks.cn/nlp/diet/index.html), Rasa DIET：对话系统的轻量级语言理解
+
 [ConveRT: Efficient and Accurate Conversational Representations from Transformers, 2020](https://www.yiyibooks.cn/nlp/ConvRT/index.html), ConveRT：基于 Transformer 的高效、准确的会话表示
 
 [ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems, 2020](https://www.yiyibooks.cn/nlp/ConvLab2/index.html), 对话系统工具包 ConLab-2
@@ -33,6 +35,8 @@ LaTex 转 HTML 的方法参见 [Wiki](https://github.com/yiyibooks/nlp_machine_l
 [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction, 2019](https://yiyibooks.cn/yiyibooks/An_Evaluation_Dataset_for_Intent_Classification/index.html), Intent Classification dataset
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018](https://www.yiyibooks.cn/nlp/bert/main.html), bert
+
+[WAV2LETTER++: THE FASTEST OPEN-SOURCE SPEECH RECOGNITION SYSTEM](https://www.yiyibooks.cn/nlp/wae2letter++/index.html), WAV2LETTER++：最快的开源语音识别系统
 
 [Attention Is All You Need, 2017](https://yiyibooks.cn/yiyibooks/Attention_Is_All_You_Need/index.html), Transformer
 
