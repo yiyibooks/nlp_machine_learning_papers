@@ -1,8 +1,10 @@
 # NLP 和机器学习论文中文翻译
 
-在阅读过程中发现有翻译不好的地方，可以直接修改
+在阅读过程中发现有翻译不好的地方，请直接修改
 
-有其它想要阅读和翻译的论文，可直接输入 arXiv 上的论文地址上传，有问题请在 Issues 中留言
+用户可自己直接输入 arXiv 上的论文地址上传想要阅读的论文
+
+[https://www.yiyibooks.cn/](https://www.yiyibooks.cn/)
 
 [Big Self-Supervised Models are Strong Semi-Supervised Learners, 2020](https://yiyibooks.cn/nlp/SimCLRv2/index.html), 图像领域无监督预训练 + 有监督微调 SimCLR v2
 
@@ -55,5 +57,7 @@
 [Neural Machine Translation by Jointly Learning to Align and Translate, 2014](https://yiyibooks.cn/yiyibooks/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate/index.html), Seq2seq with attention
 
 [Convolutional Neural Networks for Sentence Classification, 2014](https://yiyibooks.cn/nlp/textcnn/index.html), 文本分类 textcnn
+
+[Sequence to Sequence Learning with Neural Networks](https://www.yiyibooks.cn/arxiv/1409.3215v3/index.html), 使用神经网络进行序列到序列学习 Seq2seq
 
 [BLEU: a Method for Automatic Evaluation of Machine Translation, 2002](https://yiyibooks.cn/yiyibooks/BLEU_a_Method_for_Automatic_Evaluation_of_Machine_Translation/index.html), 机器翻译评价指标 bleu
